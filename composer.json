@@ -2,6 +2,7 @@
     "name": "phongvt/hello-composer",
     "description": "My first composer project",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "ex-phongvt",
