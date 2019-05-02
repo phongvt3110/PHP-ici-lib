@@ -1,5 +1,5 @@
 <?php 
-namespace HelloWorld;
+namespace Viblo\HelloWorld;
 class SayHello
 {
     public static function world()
