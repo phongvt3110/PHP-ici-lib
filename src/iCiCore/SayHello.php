@@ -1,5 +1,5 @@
 <?php 
-namespace Viblo\HelloWorld;
+namespace Wind\Core;
 class SayHello
 {
     public static function world()
